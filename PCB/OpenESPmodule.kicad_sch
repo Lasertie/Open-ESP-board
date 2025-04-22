@@ -4919,7 +4919,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 173.99) (xy 116.84 180.34)
+			(xy 116.84 173.99) (xy 116.84 175.26)
 		)
 		(stroke
 			(width 0)
@@ -6000,6 +6000,18 @@
 		(uuid 1c19fd32-1fce-4efb-95e9-555cecdb143c)
 	)
 	(rectangle
+		(start 140.97 100.33)
+		(end 203.2 132.08)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 42a20369-ec38-4e1a-be49-5141fe0fa2f0)
+	)
+	(rectangle
 		(start 15.24 63.5)
 		(end 67.31 95.25)
 		(stroke
@@ -6172,6 +6184,25 @@
 			(justify left top)
 		)
 		(uuid "550ba81a-0c7d-409d-8423-dfa0192a4fbd")
+	)
+	(text_box "Batterie"
+		(exclude_from_sim no)
+		(at 184.15 100.33 0)
+		(size 19.05 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "f939ad0e-01e4-4873-94cd-a898229540c3")
 	)
 	(label "IO8"
 		(at 88.9 76.2 180)
@@ -7183,7 +7214,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 116.84 180.34 0)
+		(at 116.84 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7192,7 +7223,7 @@
 		(fields_autoplaced yes)
 		(uuid "58ebba11-03d1-4315-9e42-8dc583bcb497")
 		(property "Reference" "#PWR06"
-			(at 116.84 186.69 0)
+			(at 116.84 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7201,7 +7232,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 116.84 185.42 0)
+			(at 116.84 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7210,7 +7241,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 180.34 0)
+			(at 116.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7219,7 +7250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 180.34 0)
+			(at 116.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7228,7 +7259,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 116.84 180.34 0)
+			(at 116.84 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
