@@ -5,4 +5,4 @@
 ### La philosophie
 
 ## Licence
-Le projet n'a pas encore de licence open source, en attendant qu'elle soit choisie, **TOUTE REPRODUCTION, COMMERCIALISATION, REDISTRIBUTION EST INTERDITE** de quelque manière que ce soit.
+Ce projet est sous la LOC. Voir [loc.zyglonk.fr](https://loc.zyglonk.fr) pour plus de détails.

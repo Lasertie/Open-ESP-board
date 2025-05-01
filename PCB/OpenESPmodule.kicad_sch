@@ -6214,16 +6214,6 @@
 		)
 		(uuid "00c3688c-fcb6-45ad-9c40-454ac07505a9")
 	)
-	(label "optocoupler in"
-		(at 123.19 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "054985b3-5b8b-4d93-9ebb-037836b9d191")
-	)
 	(label "Esp32_EN"
 		(at 101.6 133.35 180)
 		(effects
