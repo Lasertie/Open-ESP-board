@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "OpenESPmodule.step",
+      "step": "OpenESPmodulev2.step",
       "svg": "",
       "vrml": ""
     },
