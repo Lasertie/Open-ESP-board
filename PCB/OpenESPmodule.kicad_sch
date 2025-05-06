@@ -4941,11 +4941,12 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 163.83) (xy 85.09 163.83)
+			(xy 101.6 163.83) (xy 83.82 163.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "019f33d5-23cf-4afb-be55-f694dc2d4404")
 	)
@@ -5171,11 +5172,12 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 148.59) (xy 83.82 148.59)
+			(xy 101.6 148.59) (xy 85.09 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "2a113486-f73f-4096-8469-1570c78babf3")
 	)
@@ -5611,11 +5613,12 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 143.51) (xy 83.82 143.51)
+			(xy 78.74 143.51) (xy 85.09 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "70dd68a9-818f-4e61-b28f-2e4e95f05a94")
 	)
@@ -5981,11 +5984,12 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 163.83) (xy 85.09 146.05)
+			(xy 83.82 163.83) (xy 83.82 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "afe20cb2-6836-4f7b-a194-fc52d90feed7")
 	)
@@ -6016,6 +6020,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "b5b0ebb0-d1c8-49b6-9da1-3db26c6c32ef")
 	)
@@ -6161,11 +6166,12 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 146.05) (xy 78.74 146.05)
+			(xy 83.82 146.05) (xy 78.74 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "c884c9ed-0f7a-41fc-af51-6d6ff2d72d34")
 	)
@@ -6281,11 +6287,12 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 148.59) (xy 83.82 143.51)
+			(xy 85.09 148.59) (xy 85.09 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 255 1)
 		)
 		(uuid "ea03ccb8-ecd6-40f9-b6c3-80d16c089f3b")
 	)
@@ -6922,7 +6929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 159.7152 124.46 0)
 			(effects
 				(font
@@ -7442,7 +7449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 184.15 118.618 90)
 			(effects
 				(font
@@ -9813,7 +9820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 178.562 120.65 90)
 			(effects
 				(font
@@ -10414,7 +10421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 184.15 111.76 0)
 			(effects
 				(font
