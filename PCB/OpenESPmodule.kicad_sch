@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open Esp32")
-		(rev "0.1")
+		(rev "0.2")
 		(comment 1 "Licence : LOC (loc.zyglonk.fr)")
 	)
 	(lib_symbols
@@ -5764,6 +5764,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 129.54) (xy 101.6 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9245d8bd-7e8d-48c3-8fa0-98050e5e181e")
+	)
+	(wire
+		(pts
 			(xy 87.63 125.73) (xy 78.74 125.73)
 		)
 		(stroke
@@ -6654,7 +6664,7 @@
 		(uuid "00c3688c-fcb6-45ad-9c40-454ac07505a9")
 	)
 	(label "Esp32_EN"
-		(at 101.6 133.35 180)
+		(at 101.6 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9551,7 +9561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 188.9252 124.46 0)
 			(effects
 				(font
@@ -9803,7 +9813,7 @@
 		(dnp no)
 		(uuid "cf0e0ba8-bfd9-4068-993f-cca86537859d")
 		(property "Reference" "R6"
-			(at 176.276 120.396 0)
+			(at 180.34 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9812,7 +9822,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 174.498 121.92 0)
+			(at 178.308 123.952 90)
 			(effects
 				(font
 					(size 1.27 1.27)
